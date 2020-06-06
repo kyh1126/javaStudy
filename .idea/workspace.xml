@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2e4ffa3-c80f-41a2-8ad0-0180cba5955b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b45a9QDa3RsRzfUyOwUD54hnDf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_14_lambdaExpression._1_lambdaExpression" />
+      <recent name="_12_multiThread._4_controlThreadState" />
+      <recent name="_12_multiThread._2_synchronized" />
+      <recent name="_9_nestedClassAndInterface._1_nestedClass" />
+      <recent name="_8_interface._2_typeConversionAndPolymorphism" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_14_lambdaExpression._3_functionalInterface" />
+      <recent name="_14_lambdaExpression._2_useInLambdaExpression" />
+      <recent name="_14_lambdaExpression._1_lambdaExpression" />
+      <recent name="_13_generic._1_whyGeneric" />
+      <recent name="_12_multiThread._6_threadGroup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodReferencesEx1">
+    <configuration name="BinaryOperatorStaticMethodEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_lambdaExpression._3_functionalInterface.BinaryOperatorStaticMethodEx9" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_lambdaExpression._3_functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerFunctionOperatorDefaultMethodEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_lambdaExpression._3_functionalInterface.ConsumerFunctionOperatorDefaultMethodEx7" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_lambdaExpression._3_functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferencesEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_lambdaExpression._4_methodReferences.MethodReferencesEx1" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_lambdaExpression._4_methodReferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateDefaultStaticMethodEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_lambdaExpression._3_functionalInterface.PredicateDefaultStaticMethodEx8" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_lambdaExpression._3_functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14_lambdaExpression._3_functionalInterface.PredicateEx6" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14_lambdaExpression._3_functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodReferencesEx1" />
+        <item itemvalue="Application.BinaryOperatorStaticMethodEx9" />
+        <item itemvalue="Application.PredicateDefaultStaticMethodEx8" />
+        <item itemvalue="Application.ConsumerFunctionOperatorDefaultMethodEx7" />
+        <item itemvalue="Application.PredicateEx6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e4ffa3-c80f-41a2-8ad0-0180cba5955b" name="Default Changelist" comment="" />
+      <created>1587878586081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587878586081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="163" key="#Notifications" timestamp="1588489972436">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="440" y="163" key="#Notifications/0.23.1680.947@0.23.1680.947" timestamp="1588489972436" />
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591442025389">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.947@0.23.1680.947" timestamp="1591442025389" />
+    <state x="577" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589619921644">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="577" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.947@0.23.1680.947" timestamp="1589619921644" />
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1590419832481">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1590419832481" />
+    <state x="372" y="170" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588488959145">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="372" y="170" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.947@0.23.1680.947" timestamp="1588488959145" />
+    <state x="543" y="273" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1589097876569">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="543" y="273" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.23.1680.947@0.23.1680.947" timestamp="1589097876569" />
+    <state x="604" y="386" width="471" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589717172386">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="604" y="386" width="471" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.947@0.23.1680.947" timestamp="1589717172386" />
+    <state x="555" y="224" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587883841998">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="555" y="224" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1680.947@0.23.1680.947" timestamp="1587883841998" />
+    <state x="602" y="63" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589708073246">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="602" y="63" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.947@0.23.1680.947" timestamp="1589708073246" />
+    <state x="578" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590303085028">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="578" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.947@0.23.1680.947" timestamp="1590303085028" />
+    <state width="1638" height="241" key="GridCell.Tab.0.bottom" timestamp="1591441667134">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="241" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1591441667134" />
+    <state width="1638" height="241" key="GridCell.Tab.0.center" timestamp="1591441667134">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="241" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1591441667134" />
+    <state width="1638" height="241" key="GridCell.Tab.0.left" timestamp="1591441667133">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="241" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1591441667133" />
+    <state width="1638" height="241" key="GridCell.Tab.0.right" timestamp="1591441667134">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="241" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1591441667134" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom" timestamp="1590420025200">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1590420025200" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center" timestamp="1590420025199">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1590420025199" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left" timestamp="1590420025199">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1590420025199" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right" timestamp="1590420025199">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1590420025199" />
+    <state x="341" y="135" key="SettingsEditor" timestamp="1591441643579">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="341" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1591441643579" />
+    <state width="840" height="473" key="XDebugger.FullValuePopup" timestamp="1589708428966">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="840" height="473" key="XDebugger.FullValuePopup/0.23.1680.947@0.23.1680.947" timestamp="1589708428966" />
+    <state x="406" y="241" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590325004892">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="406" y="241" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.947@0.23.1680.947" timestamp="1590325004892" />
+    <state x="100" y="123" width="1480" height="747" key="dock-window-1" timestamp="1588477475617">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="100" y="123" width="1480" height="747" key="dock-window-1/0.23.1680.947@0.23.1680.947" timestamp="1588477475617" />
+    <state x="578" y="257" key="extract.method.dialog" timestamp="1590309119955">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="578" y="257" key="extract.method.dialog/0.23.1680.947@0.23.1680.947" timestamp="1590309119955" />
+    <state x="409" y="227" width="901" height="538" key="find.popup" timestamp="1590324558620">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="409" y="227" width="901" height="538" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1590324558620" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1590225700115">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1590225700115" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaProject$SynchronizedEx2.ic" NAME="SynchronizedEx2 Coverage Results" MODIFIED="1589708339222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_12_multiThread._2_synchronized.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaProject$MainThreadEx2.ic" NAME="MainThreadEx2 Coverage Results" MODIFIED="1589699312165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_12_multiThread._1_multiThread.*</FILTER>
+    </SUITE>
+  </component>
+</project>
