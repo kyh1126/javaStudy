@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-// 시 >
+// 예시 >
 // 1. @Override: 컴파일러에게 코드 문법 에러를 체크하도록 정보를 제공하는 어노테이션. 메소드 선언 시 사용. 메소드가 오버라이드(재정의)된 것임을 컴파일러에게
 //               알려주어 컴파일러가 오버라이드 검사를 하도록 해준다. 정확히 오버라이드 되지 않았다면 컴파일러는 에러를 발생시킨다.
 public class AnnotationEx1 {
