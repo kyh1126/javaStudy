@@ -1,5 +1,6 @@
 package _15_collectionFramework._1_collectionFramework;
 
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
@@ -39,7 +40,7 @@ import java.util.Set;
 public class SetEx3 {
     public static void main(String[] args) {
         Set<String> s = new HashSet<>();
-        s.addAll(Set.of("a", "b", "c", "d"));
+        Collections.addAll(s, "a", "b", "c", "d");
         Iterator<String> iterator = s.iterator();
 
         while (iterator.hasNext()) {
